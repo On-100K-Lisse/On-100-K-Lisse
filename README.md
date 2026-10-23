@@ -33,6 +33,13 @@ Projets documentés :
 - **Mods de jeux** — modpacks et expériences de modding (ex. Cyberpunk 2077)
 - **Unreal Engine 5** — apprentissage et prototypes de jeux vidéo
 
+## Me joindre
+
+Une erreur à signaler, une proposition à faire, ou un sujet que tu aimerais me voir
+documenter? Ça se passe dans les [Issues de
+`travail-avec-ia`](https://github.com/On-100K-Lisse/travail-avec-ia/issues)
+— il y a un modèle pour chaque cas.
+
 ## Licences
 
 - Documentation : **CC BY 4.0** — réutilisation libre, en créditant la source
